@@ -1,0 +1,125 @@
+body{
+    background-color: #D7C0E3   ;
+}
+/*Testo*/
+h1#Work-In-Progress{
+    font-style: italic;
+    position: absolute; 
+    margin: 0px;
+    right: 820px;  
+    text-decoration-line: overline;
+}
+h1#Titolo{
+    font-style: italic;
+    position: absolute; 
+    margin: 0px;
+    right: 820px;  
+    text-decoration-line: overline;
+
+}
+/*tabella*/
+table {
+    border-collapse:collapse
+    }
+    td, th {
+    border:1px solid rgb(252, 0, 0);
+    padding:8px;
+    }
+/*link*/
+a#aNoel{
+    text-emphasis:initial;
+    text-decoration-line: none;
+    color: green;
+}
+a{
+    text-decoration-line: none;
+    color: darkmagenta;
+}
+a#Clicca-qui{
+    position: Absolute;
+    top: 275px;
+}
+a#Clicca-qui-felt{
+    position: Absolute;
+    top: 375px;
+}
+a#Clicca-qui-C-18{
+    position: Absolute;
+    top: 775px;
+}
+a#Clicca-qui-Leafa{
+    position: Absolute;
+    top: 525px;
+}
+img#Logo{
+    position: Absolute;
+    left:930px;
+    top: 200px;
+
+}
+/*Bottoni*/
+button#H{
+    position: Absolute;
+    top: 200px;
+
+    font-size: 270px;
+}
+button#E{
+    /*666.66666*/
+    /*left:850*/
+    position: Absolute;
+    top: 200px;
+    left: 1235px;
+    font-size: 270px;
+}
+/*
+button#N{
+    position: Absolute;
+    top: 250px;
+
+}
+button#T{
+    position: Absolute;
+    top: 275px;
+
+}
+button#A{
+
+    position: Absolute;
+    top: 300px;
+}
+button#I{
+
+    position: Absolute;
+    top: 325px; 
+}
+*/
+button#Rem{
+    position: Absolute;
+    top: 200px;
+}
+button#Ram{
+    position: Absolute;
+    top: 225px;
+}
+button#Emilia{
+    position: Absolute;
+    top: 250px;
+}
+button#Felix-Argyle{
+    position: Absolute;
+    top: 275px;
+}
+button#Felt{
+    position: Absolute;
+    top: 300px;
+}
+button#Theresia-Van-Astrea{
+    position: Absolute;
+    top: 325px;
+}
+/*div*/
+div#Descrizione{
+    position: Absolute;
+    top: 200px;
+}
