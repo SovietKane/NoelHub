@@ -6,6 +6,7 @@ footer#Discord{
     position: absolute;
     left:0px;
     bottom:0px;
+    font-size: 30px;
 }
 h1#Work-In-Progress{
     font-style: italic;
