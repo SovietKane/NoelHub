@@ -59,7 +59,7 @@ a#Clicca-qui-Leafa{
 }
 img#Logo{
     position: Absolute;
-    left:930px;
+    left:812px;
     top: 200px;
 
 }
@@ -67,16 +67,17 @@ img#Logo{
 button#H{
     position: Absolute;
     top: 200px;
-
-    font-size: 270px;
+    font-family:cursive;
+    font-size: 248px;
 }
 button#E{
     /*666.66666*/
     /*left:850*/
     position: Absolute;
     top: 200px;
-    left: 1235px;
-    font-size: 270px;
+    font-family:cursive;
+    left: 1270px;
+    font-size: 248px;
 }
 /*
 button#N{
