@@ -2,6 +2,12 @@ body{
     background-color: #D7C0E3   ;
 }
 /*Testo*/
+footer#Epilettico{
+    position: absolute;
+    left:100px;
+    bottom:0px;
+    font-size: 30px;
+}
 footer#Discord{
     position: absolute;
     left:0px;
@@ -134,7 +140,7 @@ div#Descrizione{
 footer#minigame{
     position: Absolute;
     bottom: 0px;
-    right: 175px;
+    left: 415px;
 }
 button#easy{
     color: chartreuse;
@@ -166,8 +172,5 @@ button#creative{
     position: absolute;
     top: 810px;
     font-size: 50px;
-    
-}
-@media  screen and(max-width:750) {
     
 }
