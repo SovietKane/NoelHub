@@ -2,6 +2,16 @@ body{
     background-color: #D7C0E3   ;
 }
 /*Testo*/
+footer#Password{
+    position: absolute;
+    left: 700px ;
+    bottom: 0px;
+}
+button#Submit{
+    position: absolute;
+    left: 175px;
+    bottom: 0px;
+}
 footer#Epilettico{
     position: absolute;
     left:100px;
@@ -172,5 +182,9 @@ button#creative{
     position: absolute;
     top: 810px;
     font-size: 50px;
+    
+}
+footer#Avvertimento{
+    color: rgb(252, 227, 0);
     
 }
