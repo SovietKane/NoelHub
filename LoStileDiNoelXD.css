@@ -56,6 +56,7 @@ a#aNoel{
 a{
     text-decoration-line: none;
     color: darkmagenta;
+
 }
 a#Clicca-qui{
     position: Absolute;
@@ -75,26 +76,21 @@ a#Clicca-qui-Leafa{
 }
 img#Logo{
     position: Absolute;
-    left:803px;
-    top: 380px;
+    left:10%;
+    top: 10%;
 
 }
 /*Bottoni*/
-button#H{
-    position: Absolute;
-    top: 375px;
-    left: 60px;
-    font-family:cursive;
-    font-size: 210px;
-}
 button#E{
-    /*666.66666*/
-    /*left:850*/
-    position: Absolute;
-    top: 375px;
-    font-family:cursive;
-    left: 1280px;
-    font-size: 210px;
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    text-decoration: none;
+    border: .5em solid rgba(0,0,0,0);
+    top: 50%;
+    left:50%;
+    border-radius: 100%;
+    background-image: url("https://coub-anubis-a.akamaized.net/coub_storage/channel/cw_avatar/59088ba5c6d/31c3c7fb42a042f93ffdf/profile_pic_big_1607702768_1cm6p87_1528040096_42432040409201614.jpg");
 }
 /*
 button#N{
